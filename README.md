@@ -5,6 +5,6 @@
 02 Nom:
 02 github:
 03 Nom:Séda Voskanian
-03 github:
+03 github:SedaVoskanian
 04 Nom:
 04 github:
